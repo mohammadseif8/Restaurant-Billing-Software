@@ -1,0 +1,28 @@
+		WELLCOME OUSA CENTER
+
+Bill Number:53949
+Customer Name:reza
+Phone Number:+1332169981
+Date:2023/05/19	04:08:21
+=========================================================
+Items 		 QTY 	 Unit_Price		Total_Price
+=========================================================
+Greek Pizza  		 1 	 $ 150		$ 150 
+Chicago Pizza 		 1 	 $ 140		$ 140 
+Margherita Pizza  		 4 	 $ 130		$ 520 
+cheese burger 		 3 	 $ 160		$ 480 
+eggs Benedict 		 3 	 $ 180		$ 540 
+spaghetti 		 2 	 $ 150		$ 300 
+fish and chips  		 6 	 $ 200		$ 1200 
+sushi  		 4 	 $ 180		$ 720 
+kebab  		 1 	 $ 175		$ 175 
+shish kebab  		 10 	 $ 180		$ 1800 
+Milkshake 		 1 	 $ 40		$ 40 
+Iced tea 		 4 	 $ 45		$ 180 
+---------------------------------------------------------
+Total MOMO Payment:		$ 6025.0
+Total Cold Drinks Payment:		$ 220.0
+Total Service Charge(10%):		$ 624.5
+---------------------------------------------------------
+Total Payment: 6869.5 		$
+---------------------------------------------------------

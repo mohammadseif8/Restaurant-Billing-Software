@@ -1,0 +1,20 @@
+		WELLCOME FARADARS CENTER
+
+Bill Number:28977
+Customer Name:alireza
+Phone Number:+98939250088
+Date:2023/05/19	02:59:36
+=========================================================
+Items 		 QTY 	 Unit_Price		Total_Price
+=========================================================
+Greek Pizza  		 1 	 Rs 150		Rs 150 
+Chicago Pizza 		 2 	 Rs 140		Rs 280 
+hotdog  		 3 	 Rs 150		Rs 450 
+Pepsi 		 6 	 Rs 55		Rs 330 
+---------------------------------------------------------
+Total MOMO Payment:		Rial 880.0
+Total Cold Drinks Payment:		Rs 330.0
+Total Service Charge(10%):		Rs 121.0
+---------------------------------------------------------
+Total Payment:		Rs 1331.0
+---------------------------------------------------------

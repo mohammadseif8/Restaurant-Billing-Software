@@ -1,0 +1,20 @@
+		WELLCOME OUSA CENTER
+
+Bill Number:28188
+Customer Name:petter
+Phone Number:+3315999611
+Date:2023/05/19	04:08:56
+=========================================================
+Items 		 QTY 	 Unit_Price		Total_Price
+=========================================================
+Chicago Pizza 		 3 	 $ 140		$ 420 
+cheese burger 		 1 	 $ 160		$ 160 
+eggs Benedict 		 1 	 $ 180		$ 180 
+Pepsi 		 4 	 $ 55		$ 220 
+---------------------------------------------------------
+Total MOMO Payment:		$ 760.0
+Total Cold Drinks Payment:		$ 220.0
+Total Service Charge(10%):		$ 98.0
+---------------------------------------------------------
+Total Payment: 1078.0 		$
+---------------------------------------------------------
